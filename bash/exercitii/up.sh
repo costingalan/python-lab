@@ -4,6 +4,6 @@
 # Exemplu: 
 # $ pwd
 # /home/cgalan/folder1/folder2/folder3/folder4/folder5
-# $ ./up.sh 3
+# $ up 3
 # $ pwd
 # /home/cgalan/folder1/folder2
